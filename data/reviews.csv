@@ -1,0 +1,500 @@
+order_id,product_id,review_score,comment
+10003,P1173,4,Love it
+10005,P6861,4,As described
+10007,P8657,4,
+10009,P6431,3,As described
+10011,P3855,2,Late delivery
+10016,P9011,1,As described
+10018,P1599,4,Late delivery
+10019,P1674,5,As described
+10020,P5528,4,
+10021,P1194,1,Late delivery
+10022,P9451,5,
+10025,P8778,,
+10026,P7322,4,Great product
+10027,P8302,4,Love it
+10028,P7800,4,Late delivery
+10029,P3587,4,
+10030,P2986,,Great product
+10033,P7244,,As described
+10034,P8606,3,Poor packaging
+10035,P3034,3,
+10036,P1782,,OK
+10040,P6298,,Late delivery
+10044,P3032,3,Great product
+10046,P6615,3,OK
+10047,P4007,5,Late delivery
+10048,P4348,5,Late delivery
+10049,P7925,4,OK
+10050,P6459,,OK
+10051,P3039,4,OK
+10054,P3644,4,Late delivery
+10057,P3200,3,OK
+10058,P3721,4,Great product
+10062,P5072,3,
+10070,P9060,1,Love it
+10073,P4082,2,As described
+10075,P6176,2,Late delivery
+10082,P1886,5,OK
+10085,P1556,2,Late delivery
+10086,P9351,5,OK
+10093,P3641,,Great product
+10097,P7914,1,
+10099,P8104,,
+10101,P3023,3,As described
+10104,P9228,1,OK
+10105,P2534,5,Poor packaging
+10106,P3235,3,OK
+10107,P6653,4,OK
+10109,P9416,3,Love it
+10111,P4490,5,
+10112,P1942,4,As described
+10113,P3518,3,Poor packaging
+10114,P6795,5,
+10115,P9012,2,Poor packaging
+10117,P4874,2,Poor packaging
+10119,P8027,3,Late delivery
+10121,P9353,3,Great product
+10122,P2650,1,Great product
+10124,P3134,3,Love it
+10126,P2971,2,Love it
+10132,P4440,3,Great product
+10133,P3895,2,
+10134,P7479,3,Poor packaging
+10135,P3911,2,Great product
+10145,P7967,2,As described
+10147,P3401,3,Great product
+10148,P5028,3,OK
+10151,P2804,5,Late delivery
+10153,P7184,4,Late delivery
+10155,P1178,3,OK
+10157,P7941,3,Love it
+10159,P6496,,Love it
+10160,P1530,,OK
+10163,P7260,5,Great product
+10165,P5765,3,Poor packaging
+10166,P1244,4,Poor packaging
+10168,P7122,3,
+10171,P2531,3,Late delivery
+10173,P6385,1,
+10175,P5250,5,Poor packaging
+10180,P6960,4,
+10182,P8141,2,OK
+10188,P3069,1,OK
+10192,P2754,,OK
+10196,P9486,4,Late delivery
+10198,P3073,5,Love it
+10199,P7436,5,Poor packaging
+10200,P9378,3,Love it
+10202,P2190,4,Late delivery
+10203,P2225,,Poor packaging
+10205,P3033,,Poor packaging
+10206,P6665,4,
+10207,P6289,1,
+10212,P7218,1,Late delivery
+10213,P5596,4,OK
+10215,P6957,1,Poor packaging
+10219,P1468,5,Love it
+10221,P2655,5,OK
+10226,P9940,,As described
+10227,P8935,3,Poor packaging
+10228,P3866,5,Love it
+10229,P8101,3,
+10230,P3022,4,Great product
+10232,P4585,3,Poor packaging
+10234,P5997,4,OK
+10235,P8673,4,Love it
+10236,P5806,4,
+10242,P2100,4,Poor packaging
+10243,P2995,1,OK
+10244,P3321,3,Love it
+10245,P1180,1,Poor packaging
+10252,P7187,4,As described
+10253,P9659,2,Poor packaging
+10254,P9653,3,As described
+10255,P5886,3,Great product
+10256,P6863,2,Love it
+10258,P2816,3,As described
+10259,P1579,1,Love it
+10260,P1683,5,Poor packaging
+10262,P8175,,
+10265,P9631,1,Great product
+10266,P5996,2,Great product
+10268,P7294,3,Great product
+10271,P9501,3,Love it
+10272,P5333,2,Great product
+10274,P2049,2,Poor packaging
+10276,P6729,,Late delivery
+10278,P6129,2,Late delivery
+10282,P5264,2,Late delivery
+10284,P5315,3,Great product
+10292,P7060,1,Poor packaging
+10294,P3923,2,As described
+10297,P8191,2,Great product
+10303,P1628,5,OK
+10309,P1052,4,Late delivery
+10312,P5706,5,Great product
+10315,P5766,5,As described
+10316,P3728,1,Late delivery
+10318,P9773,3,
+10319,P6431,1,Poor packaging
+10320,P2391,5,Love it
+10321,P4183,5,Great product
+10323,P8037,1,As described
+10327,P2370,5,Poor packaging
+10329,P1091,1,
+10331,P1151,3,As described
+10333,P2537,3,Late delivery
+10338,P5542,5,OK
+10341,P2970,1,Poor packaging
+10342,P1174,4,As described
+10348,P6148,1,
+10351,P1232,3,Great product
+10352,P6594,4,Great product
+10353,P1329,3,OK
+10355,P3793,3,
+10360,P7099,4,Poor packaging
+10363,P5413,1,Late delivery
+10364,P1881,2,Late delivery
+10365,P7131,3,OK
+10368,P4852,4,OK
+10369,P1570,4,OK
+10371,P8377,1,Great product
+10372,P5224,3,Great product
+10378,P1665,3,Poor packaging
+10380,P8748,5,Late delivery
+10381,P5501,1,Late delivery
+10384,P1205,4,Great product
+10385,P2361,4,Poor packaging
+10388,P7200,1,Love it
+10389,P6206,5,As described
+10391,P3644,2,
+10394,P6427,4,Love it
+10395,P1653,4,OK
+10396,P2213,4,As described
+10405,P7528,1,Love it
+10408,P2043,,Poor packaging
+10411,P4191,4,
+10412,P8988,4,Great product
+10413,P4493,2,Late delivery
+10414,P9461,4,As described
+10415,P6166,,
+10419,P8979,5,Poor packaging
+10421,P6918,5,
+10423,P9392,4,OK
+10428,P7951,5,Great product
+10429,P7234,4,As described
+10431,P2069,5,
+10432,P5801,2,Love it
+10434,P4343,1,Great product
+10436,P9604,5,Great product
+10437,P9793,5,As described
+10438,P2579,3,
+10439,P2724,5,As described
+10440,P5370,3,As described
+10443,P5305,3,As described
+10444,P9901,1,
+10445,P9370,,
+10446,P9692,2,Love it
+10447,P7567,1,
+10450,P2155,5,
+10451,P9589,4,Great product
+10452,P6593,3,Love it
+10454,P9320,2,Great product
+10459,P6389,1,As described
+10460,P3631,2,As described
+10463,P6744,5,Love it
+10476,P7347,5,As described
+10477,P4713,1,Great product
+10480,P9312,5,OK
+10483,P6991,,Great product
+10484,P9639,3,Poor packaging
+10485,P9643,3,Great product
+10487,P6247,4,Love it
+10490,P1733,4,OK
+10491,P7479,,Love it
+10494,P8683,4,Late delivery
+10495,P3502,2,Late delivery
+10501,P7325,5,Poor packaging
+10506,P8410,3,OK
+10510,P1351,5,As described
+10511,P2081,5,Late delivery
+10513,P7241,5,OK
+10515,P1261,5,Love it
+10518,P7226,3,Love it
+10520,P5614,3,Late delivery
+10525,P4102,3,Poor packaging
+10526,P4575,5,
+10527,P8306,4,Love it
+10528,P8385,4,As described
+10530,P7606,4,Poor packaging
+10531,P8116,4,OK
+10533,P8028,3,Poor packaging
+10536,P5081,1,Great product
+10540,P5358,3,Love it
+10541,P2972,4,OK
+10542,P1414,4,Late delivery
+10544,P3668,3,OK
+10548,P6306,5,Late delivery
+10551,P6540,2,
+10552,P8348,,
+10553,P6234,5,Poor packaging
+10554,P2113,3,As described
+10555,P3689,2,As described
+10556,P1472,3,Great product
+10557,P4368,3,Love it
+10560,P5493,5,
+10562,P4353,4,Poor packaging
+10570,P7668,4,Late delivery
+10577,P3698,2,Poor packaging
+10578,P6022,5,
+10580,P2983,4,Poor packaging
+10583,P5131,,As described
+10585,P9046,,Love it
+10587,P2258,3,Poor packaging
+10589,P1387,,Love it
+10592,P6859,2,Late delivery
+10594,P9944,4,
+10596,P4805,4,
+10597,P4498,4,OK
+10599,P3698,2,OK
+10602,P3384,3,As described
+10605,P9892,4,
+10606,P8521,,Late delivery
+10607,P1835,5,As described
+10608,P9986,1,Late delivery
+10616,P1335,4,As described
+10617,P2474,3,Poor packaging
+10619,P1854,1,Late delivery
+10620,P2663,3,As described
+10627,P7268,4,Great product
+10628,P8371,5,As described
+10632,P8855,4,Poor packaging
+10633,P3020,1,
+10634,P3178,,Great product
+10635,P9085,2,As described
+10636,P5018,4,Poor packaging
+10641,P7650,5,Poor packaging
+10642,P1139,4,OK
+10644,P2637,,Late delivery
+10646,P2574,2,Poor packaging
+10648,P3419,,OK
+10650,P5956,,OK
+10654,P5105,3,As described
+10655,P1151,5,Late delivery
+10656,P1645,4,OK
+10658,P5483,,OK
+10660,P6383,5,Great product
+10662,P5731,2,Great product
+10666,P8084,5,Poor packaging
+10676,P6468,5,OK
+10678,P9946,5,Great product
+10679,P1852,3,OK
+10680,P2701,1,As described
+10681,P4457,3,Love it
+10684,P4573,2,Great product
+10685,P3365,2,Poor packaging
+10686,P5130,5,Love it
+10687,P8445,5,As described
+10688,P8178,3,As described
+10689,P2755,3,Poor packaging
+10690,P5455,4,OK
+10691,P6462,4,
+10698,P3571,3,Late delivery
+10699,P4345,2,Great product
+10700,P1575,5,Poor packaging
+10702,P8292,2,OK
+10703,P9772,2,Late delivery
+10705,P3215,4,OK
+10706,P2464,3,Great product
+10708,P6532,1,Great product
+10712,P3609,4,OK
+10714,P3014,2,Love it
+10716,P4938,4,OK
+10717,P1769,3,OK
+10718,P5079,5,Great product
+10719,P3799,4,Late delivery
+10721,P4140,1,OK
+10722,P9207,5,OK
+10736,P4501,,Love it
+10737,P5699,4,As described
+10738,P4190,1,Late delivery
+10739,P7852,1,
+10742,P3110,1,OK
+10745,P2190,5,Late delivery
+10748,P4889,1,Late delivery
+10752,P9199,3,Love it
+10753,P8749,3,Great product
+10757,P7198,3,OK
+10758,P6518,5,As described
+10760,P4665,,Great product
+10762,P5801,1,OK
+10767,P9741,4,Love it
+10770,P8663,2,As described
+10772,P6292,5,OK
+10776,P9442,,Late delivery
+10778,P3353,3,
+10784,P9312,3,Late delivery
+10788,P4890,1,As described
+10791,P9578,5,OK
+10793,P4187,1,Late delivery
+10795,P4641,3,Great product
+10797,P4262,4,Great product
+10800,P6328,4,Late delivery
+10801,P2595,,Love it
+10805,P4850,1,OK
+10807,P9072,2,OK
+10809,P9225,2,As described
+10810,P2896,5,Poor packaging
+10811,P9516,2,
+10813,P3125,3,Late delivery
+10815,P2472,5,Love it
+10817,P2675,1,Great product
+10820,P9078,5,As described
+10821,P8189,3,Love it
+10822,P9502,5,Love it
+10825,P8628,3,As described
+10826,P6254,4,
+10828,P1793,3,
+10832,P2645,3,
+10833,P6351,2,As described
+10835,P3324,1,Love it
+10836,P3558,3,Poor packaging
+10839,P1530,4,Poor packaging
+10840,P7038,4,Great product
+10841,P9424,3,Love it
+10842,P2474,4,Great product
+10843,P9329,,
+10844,P9061,5,Great product
+10855,P2631,,Poor packaging
+10858,P3286,,OK
+10861,P9806,,OK
+10862,P5982,2,As described
+10865,P7606,4,Love it
+10866,P3709,5,Poor packaging
+10867,P5065,2,Late delivery
+10873,P4637,4,Love it
+10874,P8856,,Great product
+10877,P4495,2,Late delivery
+10879,P7563,2,As described
+10881,P2595,2,
+10887,P3958,1,Poor packaging
+10889,P7469,3,Great product
+10890,P5933,2,
+10893,P8140,3,Great product
+10896,P8404,4,Poor packaging
+10897,P2637,2,Great product
+10900,P7322,1,Great product
+10901,P5169,4,Late delivery
+10906,P4379,2,Great product
+10910,P2701,2,Great product
+10911,P5167,5,OK
+10914,P8853,4,Late delivery
+10916,P3666,1,Late delivery
+10919,P3748,3,Late delivery
+10920,P8558,,OK
+10922,P3265,5,
+10923,P1276,2,OK
+10924,P8168,3,As described
+10926,P1252,5,Love it
+10930,P8024,1,Poor packaging
+10931,P2425,2,Love it
+10934,P3370,1,Late delivery
+10937,P1815,3,Poor packaging
+10940,P2187,,Great product
+10941,P1966,1,Poor packaging
+10943,P8218,,Great product
+10946,P2158,4,
+10949,P4964,1,
+10950,P9964,3,Poor packaging
+10952,P6317,3,
+10953,P2640,,As described
+10954,P1389,4,Great product
+10956,P5253,4,OK
+10957,P1788,5,Late delivery
+10958,P5656,3,Late delivery
+10959,P9936,5,Love it
+10960,P9970,3,Great product
+10964,P7143,4,Great product
+10966,P9802,,
+10969,P3229,3,OK
+10972,P1100,3,OK
+10975,P8152,3,Love it
+10980,P8811,5,Love it
+10981,P2452,1,Late delivery
+10983,P1213,5,
+10984,P3140,1,Poor packaging
+10997,P1664,3,Late delivery
+10999,P7175,2,Late delivery
+11000,P3478,1,Love it
+11002,P5319,3,As described
+11003,P6974,5,As described
+11007,P5678,,As described
+11009,P7538,4,As described
+11010,P5684,2,OK
+11012,P2998,2,Great product
+11013,P5601,3,Late delivery
+11015,P3418,4,Poor packaging
+11022,P4192,4,
+11023,P2422,2,Poor packaging
+11025,P5032,3,OK
+11029,P7993,1,Great product
+11032,P4550,5,OK
+11033,P1936,,Poor packaging
+11034,P1908,5,Great product
+11040,P8801,5,
+11041,P5385,,
+11043,P1986,5,Love it
+11044,P7651,5,Poor packaging
+11045,P1463,2,Poor packaging
+11053,P6694,,Poor packaging
+11055,P6260,4,Late delivery
+11058,P5007,5,As described
+11062,P8846,4,OK
+11066,P3223,3,As described
+11070,P8983,4,Great product
+11071,P1768,4,OK
+11072,P1266,4,Great product
+11075,P4781,3,OK
+11076,P2115,1,As described
+11084,P8395,,Love it
+11088,P4151,3,Love it
+11089,P6131,3,Late delivery
+11090,P6186,3,
+11092,P8069,5,Late delivery
+11094,P2249,4,Love it
+11097,P2797,4,As described
+11098,P9156,5,As described
+11100,P2047,4,Love it
+11102,P3635,,Late delivery
+11105,P7847,4,OK
+11108,P3905,1,OK
+11110,P1013,5,Love it
+11111,P1324,4,Great product
+11115,P3919,3,Great product
+11116,P6626,2,OK
+11125,P6830,3,Great product
+11126,P1572,2,Late delivery
+11129,P3322,5,Late delivery
+11131,P4574,,
+11136,P7653,4,Poor packaging
+11137,P1772,4,Poor packaging
+11138,P5846,3,OK
+11139,P9754,4,Love it
+11140,P8862,5,As described
+11141,P5792,2,
+11142,P2069,,Love it
+11149,P1486,1,Great product
+11153,P7464,5,Great product
+11156,P8771,5,Poor packaging
+11158,P3222,5,
+11160,P7321,3,
+11165,P7116,1,Poor packaging
+11168,P9341,3,Love it
+11175,P6834,2,OK
+11177,P8776,1,Late delivery
+11178,P5891,,Late delivery
+11180,P3220,3,Great product
+11181,P1981,4,Great product
+11182,P9344,4,
+11183,P9126,1,Late delivery
